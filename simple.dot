@@ -1,0 +1,17 @@
+digraph Hello {
+
+  Breakfast -> Lunch
+
+  Breakfast -> Dinner
+
+  Breakfast -> Sleep
+
+  Breakfast -> Dessert -> Sleep
+
+  Lunch -> Dinner
+
+  Lunch -> Sleep
+
+  Dinner -> Sleep
+
+}
